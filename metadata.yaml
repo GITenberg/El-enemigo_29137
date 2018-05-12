@@ -1,0 +1,29 @@
+_repo: El-enemigo_29137
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Picón, Jacinto Octavio
+    aliases:
+    - Bouchet, Jacinto Octavio Picón y
+    - Picon, Jacinto Octavio
+    birthdate: 1852
+    deathdate: 1923
+    gutenberg_agent_id: '32053'
+    url: http://www.gutenberg.org/2009/agents/32053
+description: ''
+gutenberg_issued: '2009-06-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29137'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- 19th century'
+- !lcc 'PQ'
+title: El enemigo
+url: http://www.gutenberg.org/ebooks/29137
